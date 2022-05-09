@@ -33,9 +33,9 @@ body {
     position: relative;
     display: block;
     margin: 35px auto 20px;
-    border-radius: 100%;
-    width: 96px;
-    height: 96px;
+    border-radius: 0%;
+    width: 300px;
+    height: 300px;
     -webkit-tap-highlight-color: transparent;
 }
 
